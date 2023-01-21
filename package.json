@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "iqsm_be",
+  "description": "Integrated Quality Systems Management",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rojecas/IQSM_BE.git"
+  },
+  "keywords": [
+    "Quality",
+    "Systems",
+    "Management",
+    "ISO",
+    "BPM"
+  ],
+  "author": "rojecas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rojecas/IQSM_BE/issues"
+  },
+  "homepage": "https://github.com/rojecas/IQSM_BE#readme"
+}
