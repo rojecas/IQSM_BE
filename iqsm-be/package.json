@@ -41,7 +41,7 @@
     "url": ""
   },
   "author": "rojecas <rojecas@gmail.com>",
-  "license": "",
+  "license": "ISC",
   "files": [
     "README.md",
     "dist",
