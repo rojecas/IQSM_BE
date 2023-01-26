@@ -3,9 +3,9 @@ import {juggler} from '@loopback/repository';
 
 const config = {
   name: 'IQSMDB',
-  connector: 'mysql',
-  url: '',
-  host: 'mysql://www.inasc.com.co',
+  connector: '',
+  url: 'mysql://www.inasc.com.co',
+  host: '',
   port: 3306,
   user: 'inasc_rojecas',
   password: 'Icl7007+',
